@@ -16,3 +16,6 @@ All beta proteins: Domains consisting of β-sheets
 Alpha and beta proteins (a/b): Mainly parallel beta sheets (beta-alpha-beta units)
 Alpha and beta proteins (a+b): Mainly antiparallel beta sheets (segregated alpha and beta regions)
 After performing various comprehensive tests, we conclude that our project is functioning correctly. However, there is always room for improvement and learning. This was our first ML project, and indeed, we learned something new from it. We are now looking forward to overcoming the existing limitations and adding new possible extensions, which are discussed in the next section.
+
+Project report for this SCOP application
+https://github.com/PrincyGajera/SCOP/blob/main/Docs/Project_Report.pdf
